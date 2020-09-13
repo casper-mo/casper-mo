@@ -1,18 +1,19 @@
 <h2> Hey there! I'm Mahmoud Muhammed.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
-- 🎓 &nbsp; Graduated from Faculty of Computers and Information Helwan University.
-- 🌱 &nbsp; Learning more about Frontend.
-- 🤔 I’m looking for creating a projects in React js
+
+- 🎓&nbsp; Graduated from Faculty of Computers and Information Helwan University.
+- 🌱 I’m currently learning Full-Stack Development
+- 🤔 I’m looking for creating a projects in react js
 - ✍️ &nbsp; Pursuing Graphic Design  as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ 
-- 🌐 &nbsp; HTML | CSS | CSS3 | JavaScript | Bootstrap | ReactJS | Material-UI
-- 🛢 &nbsp; MySQL | Firebase
-- 🔧 &nbsp; Git 
-- 🖥 &nbsp; Illustrator| Photoshop | After Effect
+- 💻 &nbsp; Python | Java | C++.
+- 🌐 &nbsp; HTML | CSS | CSS3 | JavaScript | Bootstrap | ReactJS | Material-UI.
+- 🛢 &nbsp; MySQL | Firebase.
+- 🔧 &nbsp; Git.
+- 🖥 &nbsp; Illustrator| Photoshop | After Effect.
 
 <br/>
 
