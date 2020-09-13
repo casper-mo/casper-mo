@@ -1,10 +1,9 @@
 <h2> Hey there! I'm Mahmoud Muhammed.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated from Faculty of Computers and Information Helwan University.
 - 🌱 &nbsp; Learning more about Frontend.
+- 🤔 I’m looking for creating a projects in React js
 - ✍️ &nbsp; Pursuing Graphic Design  as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
@@ -23,6 +22,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ma7moudmu7amed/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?labelColor=2c3e50&label=Linkedin&message=MahmoudMuhammed&color=3498db&logo=linkedin"></a>
-<a href="mailto:mahmoudmu7amed@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mahmoudmu7amed@gmail.com
--blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:mahmoudmu7amed@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?labelColor=BDBDBD&label=Gmail&message=mahmoudmu7amed@gmail.com&color=e74c3c&logo=gmail"></a>
 </p>
