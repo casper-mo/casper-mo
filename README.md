@@ -10,9 +10,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C++.
-- 🌐 &nbsp; HTML | CSS | CSS3 | JavaScript(ES6) | Bootstrap | ReactJS | Material-UI.
-- 🛢 &nbsp; MySQL | Firebase.
-- 🔧 &nbsp; Git.
+- 🌐 &nbsp; HTML | CSS | CSS3 | JavaScript(ES6) | Bootstrap | ReactJS | Redux | Next.js | Material-UI.
+- 🛢 &nbsp; MySQL | Firebase .
+- 🔧 &nbsp; Git | SEO.
 - 🖥 &nbsp; XD |Illustrator| Photoshop | After Effect.
 
 <br/>
