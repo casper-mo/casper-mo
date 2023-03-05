@@ -2,10 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓&nbsp; Graduated from Faculty of Computers and Information Helwan University.
-- 🌱 I’m currently learning Full-Stack Development
-- 🤔 I’m looking for creating a projects in react-js
-- ✍️ &nbsp; Pursuing Graphic Design  as hobbies/side hustles.
+I am a frontend engineer with 3 years of experience in developing user-friendly and secure web applications using React and other cutting-edge technologies. I have a passion for learning new libraries and frameworks that can enhance the performance and functionality of my projects. I also have a strong background in web security, ensuring that my code follows best practices and standards to prevent common vulnerabilities and threats. I enjoy collaborating with other developers and designers to create engaging and responsive web experiences that meet the needs and expectations of the clients and users.
 
 <h3>🛠 Tech Stack</h3>
 
