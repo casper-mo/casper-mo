@@ -41,7 +41,7 @@ I’m a passionate frontend engineer specializing in building **secure**, **high
 ## 📫 Let’s Connect
 - 📧 [mahmoudmu7amed@gmail.com](mailto:mahmoudmu7amed@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ma7moudmu7amed)  
-- 🐦 [Twitter](https://twitter.com/casper-mo)  
+- 🐦 [Twitter](https://twitter.com/CASP3R_M)  
 
 ---
 
