@@ -81,13 +81,4 @@ Senior Front-End Developer with **6+ years** of experience building scalable, se
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=casper-mo&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casper-mo&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 <p align="center"><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i> — Martin Fowler</p>
